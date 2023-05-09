@@ -1,15 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package FazerNoNetbeans;
 
 import java.util.Scanner;
 
-/**
+/**  RENATO AFONSO DE MEDEIROS SILVA  - RGM: 11222100164
+ *   ALEXANDRE PEREIRA DE PAULA - RGM: 11222101350
  *
- * @author franc
+ * 
  */
 public class App {
 
