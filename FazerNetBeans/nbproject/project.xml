@@ -3,9 +3,12 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
-            <name>FazerNoNetbeans</name>
+            <name>Atividade_Francisco_Calculadora</name>
             <source-roots>
+                <root id="src.FazerNoNetbeans.dir"/>
                 <root id="src.dir"/>
+                <root id="src.Todas%20as%20Pastas.dir"/>
+                <root id="src.TXT.dir"/>
             </source-roots>
             <test-roots>
                 <root id="test.src.dir"/>
